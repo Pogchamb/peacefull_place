@@ -20,4 +20,8 @@ dependencyResolutionManagement {
 }
 
 rootProject.name = "peacefull_place"
+
 include(":app")
+include(":core:common")
+include(":feature:home")
+include(":core:ui")
