@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="TextAppearance.MentalHealth.HeadlineMedium" parent="TextAppearance.Material3.HeadlineMedium" tools:targetApi="28">
+        <item name="fontFamily">@font/manrope_semibold</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textSize">@dimen/text_size_headline_medium</item>
+        <item name="android:lineHeight">@dimen/line_height_headline_medium</item>
+    </style>
+
+    <style name="TextAppearance.MentalHealth.TitleLarge" parent="TextAppearance.Material3.TitleLarge" tools:targetApi="28">
+        <item name="fontFamily">@font/manrope_medium</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textSize">@dimen/text_size_title_large</item>
+        <item name="android:lineHeight">@dimen/line_height_title_large</item>
+    </style>
+</resources>

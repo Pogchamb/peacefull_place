@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">@color/core_primary_dark</color>
+    <color name="colorOnPrimary">@color/core_on_primary_dark</color>
+    <color name="colorPrimaryContainer">@color/core_primary_container_dark</color>
+    <color name="colorOnPrimaryContainer">@color/core_on_surface_dark</color>
+    <color name="colorBackground">@color/core_background_dark</color>
+    <color name="colorSurface">@color/core_surface_dark</color>
+    <color name="colorOnSurface">@color/core_on_surface_dark</color>
+    <color name="colorOutline">@color/core_outline_dark</color>
+    <color name="colorTertiary">@color/core_tertiary_dark</color>
+</resources>
+

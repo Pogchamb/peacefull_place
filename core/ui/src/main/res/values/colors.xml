@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="core_primary_light">#2E5C40</color>
+    <color name="core_on_primary_light">#FFFFFF</color>
+    <color name="core_primary_container_light">#DCE8D6</color>
+    <color name="core_on_primary_container_light">#132A1D</color>
+    <color name="core_background_light">#F9FAF8</color>
+    <color name="core_surface_light">#FFFFFF</color>
+    <color name="core_on_surface_light">#191C1A</color>
+    <color name="core_outline_light">#707973</color>
+    <color name="core_tertiary_light">#F4A261</color>
+
+    <color name="core_primary_dark">#81B29A</color>
+    <color name="core_on_primary_dark">#0F1F17</color>
+    <color name="core_primary_container_dark">#2D4035</color>
+    <color name="core_background_dark">#121A16</color>
+    <color name="core_surface_dark">#1E2B25</color>
+    <color name="core_on_surface_dark">#E1E3E0</color>
+    <color name="core_outline_dark">#89938D</color>
+    <color name="core_tertiary_dark">#F4A261</color>
+
+
+    <color name="colorPrimary">@color/core_primary_light</color>
+    <color name="colorOnPrimary">@color/core_on_primary_light</color>
+    <color name="colorPrimaryContainer">@color/core_primary_container_light</color>
+    <color name="colorOnPrimaryContainer">@color/core_on_primary_container_light</color>
+    <color name="colorBackground">@color/core_background_light</color>
+    <color name="colorSurface">@color/core_surface_light</color>
+    <color name="colorOnSurface">@color/core_on_surface_light</color>
+    <color name="colorOutline">@color/core_outline_light</color>
+    <color name="colorTertiary">@color/core_tertiary_light</color>
+</resources>
