@@ -8,6 +8,6 @@ data class MoodEntity(
     @PrimaryKey(autoGenerate = true)
     val id: Long = 0,
     val time: Long,
-    val store: Int,
+    val score: Int,
     val note: String?
 )
